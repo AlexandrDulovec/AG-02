@@ -1,3 +1,4 @@
+
 mv martin_kokes.txt/ucitele
 cd zaci
 mv ossp/ucitele/filip_dubcek.txt ossp/zaci/filip_dubcek.txt
